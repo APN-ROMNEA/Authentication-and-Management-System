@@ -1,7 +1,6 @@
 
 # *Authentication system and Managements* 
 
-``Group 2 Team 3``
 
 ---
 
@@ -42,7 +41,7 @@
 
 ---
 
-## Thank you for using our program :smile::heart: 
+## Thank you for using our program. 
 
 
 
